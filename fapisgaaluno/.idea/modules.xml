@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/fapisgaaluno.iml" filepath="$PROJECT_DIR$/fapisgaaluno.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fapisgaalunobusiness/fapisgaalunobusiness.iml" filepath="$PROJECT_DIR$/fapisgaalunobusiness/fapisgaalunobusiness.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fapisgaalunocontroller/fapisgaalunocontroller.iml" filepath="$PROJECT_DIR$/fapisgaalunocontroller/fapisgaalunocontroller.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fapisgaalunodatabase/fapisgaalunodatabase.iml" filepath="$PROJECT_DIR$/fapisgaalunodatabase/fapisgaalunodatabase.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fapisgaalunoview/fapisgaalunoview.iml" filepath="$PROJECT_DIR$/fapisgaalunoview/fapisgaalunoview.iml" />
+    </modules>
+  </component>
+</project>
